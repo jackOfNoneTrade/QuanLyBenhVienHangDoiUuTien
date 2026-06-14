@@ -1,0 +1,10 @@
+PatientID,Name,Age,SeverityScore,ArrivalTime,RegOrder,TimeCalled
+LS0001,Dương Thị Cường,78,4,08:34,1,11:10:10
+LS0002,Bùi Thị Nam,35,4,14:35,2,10:44:43
+LS0003,Vũ Thị Bình,30,1,15:20,3,13:50:17
+LS0004,Trần Thị Giang,73,5,09:13,4,15:31:25
+LS0005,Mai Văn Phúc,19,3,08:15,5,16:34:34
+LS0006,Hoàng Văn Thảo,55,4,09:23,6,10:44:08
+LS0007,Đỗ Văn Quỳnh,12,5,07:55,7,08:52:09
+LS0008,Ngô Văn Phương,88,3,11:04,8,13:34:24
+BN0012,Hồ Thị Giang,9,1,13:14,12,18:47:29

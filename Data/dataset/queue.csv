@@ -1,0 +1,15 @@
+PatientID,Name,Age,SeverityScore,ArrivalTime,RegOrder
+BN0008,Lê Văn Giang,44,2,07:24,8
+BN0010,Nguyễn Văn Phúc,69,2,09:05,10
+BN0015,Lê Văn Minh,46,2,13:17,15
+BN0004,Trần Thị Giang,30,3,11:01,4
+BN0003,Đỗ Văn Cường,76,3,07:01,3
+BN0013,Lý Văn Khánh,11,2,16:06,13
+BN0006,Phạm Thị Phúc,76,3,15:55,6
+BN0014,Đặng Văn Inh,59,4,16:23,14
+BN0009,Trần Thị Minh,45,4,08:51,9
+BN0005,Đỗ Văn Giang,84,4,10:26,5
+BN0011,Đỗ Văn Khánh,81,4,16:23,11
+BN0002,Phạm Thị Em,14,4,14:57,2
+BN0007,Nguyễn Văn Phương,90,3,09:17,7
+BN0001,Ngô Bá Khá,67,4,08:15,1
